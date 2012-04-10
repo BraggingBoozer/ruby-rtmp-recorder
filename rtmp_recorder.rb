@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 #
-#= The library for manipulating data piles.
+#= The library for frontend of rtmpdump.
 #
 #Authors::   Bragging Boozer<bragging.boozer@gmail.com>
 #Version::   0.1
